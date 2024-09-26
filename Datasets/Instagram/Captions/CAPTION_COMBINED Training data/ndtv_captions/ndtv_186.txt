@@ -1,0 +1,7 @@
+"What is CrowdStrike? Why is my Windows computer showing the Blue Screen of Death? Who is responsible for the biggest-ever IT outage?" These are questions that have dominated conversations across the globe after a Microsoft error brought Windows computers to its heels. While it is now known that an update to an anti-virus program 'Falcon Sensor' by CrowdStrike was responsible for the massive worldwide outage, people have still been wondering how such a defective update was allowed to be released and who was behind it.
+
+Step in Vincent Flibustier, an X user parading to be a Crowdstrike employee. Vincent broke the internet with an altered, AI-generated photo of him outside the CrowdStrike office along with the caption, "First day at Crowdstrike, pushed a little update and taking the afternoon off." Two hours later, Flibustier posted another update - the company had fired him. He also shared a short video where he takes 'responsibility' for causing the global outage.
+
+Link in bio
+
+#crowdstrike #microsoftoutage #microsoft #windows #world
